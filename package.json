@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@fontsource/inter": "^4.5.0",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^3.0.0-alpha.1",
+    "vite": "^2.6.11"
+  },
+  "dependencies": {
+    "@alexvipond/mulago-foundation-portfolio": "*",
+    "@baleada/logic": "^0.20.25",
+    "@baleada/vue-composition": "^0.10.8",
+    "@baleada/vue-features": "^0.10.5",
+    "vue": "^3.2.20"
+  }
+}
